@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # > # Task 1: Merge 12 months sales data into one csv
 
